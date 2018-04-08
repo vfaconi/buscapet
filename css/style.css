@@ -1,0 +1,34 @@
+/*!
+ * Mastertech - Heroic Features
+ * Insira seu código entre os comentários localizados no fim desta pagina ou/e
+ * Edite o código do layout original
+ */
+
+
+/* Edite o código abaixo para mudar as opções do layout original */
+
+body {
+    padding-top: 54px;
+}
+.jumbotron-amarelo {
+    background-color: #ffc600
+}
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.card {
+    height: 100%;
+}
+
+
+/* Inicio do meu CSS */
+.btn-branco {
+    color: #111;
+    background-color: #f3f4f5;
+    border-color: #f3f4f5;
+}
+
+/* Fim do meu CSS */
